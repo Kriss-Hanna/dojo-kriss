@@ -17,10 +17,12 @@ const Navbar = () => {
   return (
     <>
       <div className="navbar-container">
-        <div className="logo">Logo</div>
+        <div className="logo">
+          <Link to="/">Logo</Link>
+        </div>
 
         <div className="navbar">
-          <Link to="/">Actus</Link>
+          <Link to="/actus">Actus</Link>
 
           <Button
             id="basic-button"
@@ -40,12 +42,12 @@ const Navbar = () => {
               "aria-labelledby": "basic-button",
             }}
           >
-            <MenuItem onClick={handleClose}>Profile</MenuItem>
-            <MenuItem onClick={handleClose}>My account</MenuItem>
-            <MenuItem onClick={handleClose}>Logout</MenuItem>
+            <MenuItem onClick={handleClose}>Notre histoire</MenuItem>
+            <MenuItem onClick={handleClose}>Coachs et instructeurs</MenuItem>
           </Menu>
-          <Link to="/">Lieux de entrainement</Link>
-          <Link to="/">Planning Tarifs Inscriptions</Link>
+
+          <Link to="/lieux">Lieux de entrainement</Link>
+          <Link to="/planning-tarifs">Planning Tarifs Inscriptions</Link>
           <Button
             id="basic-button"
             aria-controls={open ? "basic-menu" : undefined}

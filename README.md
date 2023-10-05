@@ -1,8 +1,44 @@
-# React + Vite
+# Dojo Kriss 🥋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenue dans le repo `dojo-kriss`, un espace dédié pour expérimenter, apprendre, et développer des petits projets en React et Node.
 
-Currently, two official plugins are available:
+## À propos 📚
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Ce repository est comme un dojo pour moi, un lieu où je m'entraîne pour devenir meilleur en développement. Ici, vous trouverez divers exercices, des projets miniatures, et des preuves de concept.
+
+## Technologies utilisées 🛠️
+
+- React
+- Sass
+- Material-UI
+
+## Comment lancer le projet 🚀
+
+1. Clonez ce repo
+    ```
+    git clone https://github.com/Kriss-Hanna/dojo-kriss.git
+    ```
+
+2. Installez les dépendances
+    ```
+    npm install ou yarn
+    ```
+
+3. Démarrez le projet
+    ```
+    npm run dev ou yarn run dev
+    ```
+
+## Contribution 🤝
+
+N'hésitez pas à contribuer si vous avez des idées pour améliorer le repo ! Les pull requests sont les bienvenues.
+
+## Ressources 📚
+
+- [React Documentation](https://fr.reactjs.org/)
+- [SASS Documentation](https://sass-lang.com/documentation/)
+
+
+## Me contacter 📫
+
+Vous pouvez me contacter à mon adresse email, ou me retrouver sur [mon portfolio](https://kristoffersonhanna.fr/)
