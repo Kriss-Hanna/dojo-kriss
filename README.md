@@ -1,6 +1,6 @@
 # Dojo Kriss 🥋
 
-Bienvenue dans le repo `dojo-kriss`, un espace dédié pour expérimenter, apprendre, et développer des petits projets en React et Node.
+Bienvenue dans le repo `dojo-kriss`, un espace dédié pour expérimenter, apprendre, et développer des projets en React.
 
 ## À propos 📚
 
